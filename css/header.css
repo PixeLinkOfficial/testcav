@@ -40,6 +40,7 @@ header{
     text-align: center;
     margin: 120px auto 15px auto;
     box-shadow: 0px 0px 999999999999px #2a1e12;
+    overflow: hidden;
 }
 .imgsubheader{
     width: 100%;
