@@ -1,8 +1,6 @@
 body{
     
-    background-image: url(backimgcav.jpg);
-    background-position: center;
-    background-size: contain;
+    background-color: #2a1e12;
     margin-top: 85px;
     font-family: "Roboto", serif;
 }
